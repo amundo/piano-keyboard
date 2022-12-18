@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100vh;
+  margin:0;
+  padding:0;
+}
+
+body {
+  display: grid;
+  place-content:center;
+  height:100%;
+  margin:0;
+  padding:0;
+}
+
+details {
+  position:absolute;
+  top:2em;
+  right:2em;
+}
+piano-keyboard {
+  display: block;
+  transform:scale(2);
+}

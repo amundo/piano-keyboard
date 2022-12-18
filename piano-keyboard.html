@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>piano-keyboard</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="piano-keyboard.css">
+
+</head>
+<body>
+<details>
+  <summary>help</summary>
+  <p>Play by clicking a key or typing one of <code>zsxdcvgbhnjm</code>.</p>
+</details>
+
+<piano-keyboard></piano-keyboard>  
+
+<script type="module">
+import {PianoKeyboard} from './PianoKeyboard.js'
+
+window.pianoKeyboard = document.querySelector('piano-keyboard')
+</script>
+
+</body>
+</html>

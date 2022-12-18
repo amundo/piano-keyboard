@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "description": "several octaves of notes with pitches and midi number",
+    "title": "notes",
+    "notes": [
+      "created with ChatGPT with the command “create a csv file representing notes. each note should be represented by a name (use flat name, not sharp name), a frequency in hz, and a midi number. go from c below middle c to c above middle c. make it span four octaves.",
+      "now spans 88"
+    ]
+  },
+  "notes": [
+    {
+      "note": "A0",
+      "pitch": "27.50",
+      "midi": "21"
+    },
+    {
+      "note": "Bb0",
+      "pitch": "29.14",
+      "midi": "22"
+    },
+    {
+      "note": "B0",
+      "pitch": "30.87",
+      "midi": "23"
+    },
+    {
+      "note": "C1",
+      "pitch": "32.70",
+      "midi": "24"
+    },
+    {
+      "note": "Db1",
+      "pitch": "34.65",
+      "midi": "25"
+    },
+    {
+      "note": "D1",
+      "pitch": "36.71",
+      "midi": "26"
+    },
+    {
+      "note": "Eb1",
+      "pitch": "38.89",
+      "midi": "27"
+    },
+    {
+      "note": "E1",
+      "pitch": "41.20",
+      "midi": "28"
+    },
+    {
+      "note": "F1",
+      "pitch": "43.65",
+      "midi": "29"
+    },
+    {
+      "note": "Gb1",
+      "pitch": "46.25",
+      "midi": "30"
+    },
+    {
+      "note": "G1",
+      "pitch": "49.00",
+      "midi": "31"
+    },
+    {
+      "note": "Ab1",
+      "pitch": "51.91",
+      "midi": "32"
+    },
+    {
+      "note": "A1",
+      "pitch": "55.00",
+      "midi": "33"
+    },
+    {
+      "note": "Bb1",
+      "pitch": "58.27",
+      "midi": "34"
+    },
+    {
+      "note": "B1",
+      "pitch": "61.74",
+      "midi": "35"
+    },
+    {
+      "note": "C2",
+      "pitch": "65.41",
+      "midi": "36"
+    },
+    {
+      "note": "Db2",
+      "pitch": "69.30",
+      "midi": "37"
+    },
+    {
+      "note": "D2",
+      "pitch": "73.42",
+      "midi": "38"
+    },
+    {
+      "note": "Eb2",
+      "pitch": "77.78",
+      "midi": "39"
+    },
+    {
+      "note": "E2",
+      "pitch": "82.41",
+      "midi": "40"
+    },
+    {
+      "note": "F2",
+      "pitch": "87.31",
+      "midi": "41"
+    },
+    {
+      "note": "Gb2",
+      "pitch": "92.50",
+      "midi": "42"
+    },
+    {
+      "note": "G2",
+      "pitch": "98.00",
+      "midi": "43"
+    },
+    {
+      "note": "Ab2",
+      "pitch": "103.83",
+      "midi": "44"
+    },
+    {
+      "note": "A2",
+      "pitch": "110.00",
+      "midi": "45"
+    },
+    {
+      "note": "Bb2",
+      "pitch": "116.54",
+      "midi": "46"
+    },
+    {
+      "note": "B2",
+      "pitch": "123.47",
+      "midi": "47"
+    },
+    {
+      "note": "C3",
+      "pitch": "130.81",
+      "midi": "48"
+    },
+    {
+      "note": "Db3",
+      "pitch": "138.59",
+      "midi": "49"
+    },
+    {
+      "note": "D3",
+      "pitch": "146.83",
+      "midi": "50"
+    },
+    {
+      "note": "Eb3",
+      "pitch": "155.56",
+      "midi": "51"
+    },
+    {
+      "note": "E3",
+      "pitch": "164.81",
+      "midi": "52"
+    },
+    {
+      "note": "F3",
+      "pitch": "174.61",
+      "midi": "53"
+    },
+    {
+      "note": "Gb3",
+      "pitch": "185.00",
+      "midi": "54"
+    },
+    {
+      "note": "G3",
+      "pitch": "196.00",
+      "midi": "55"
+    },
+    {
+      "note": "Ab3",
+      "pitch": "207.65",
+      "midi": "56"
+    },
+    {
+      "note": "A3",
+      "pitch": "220.00",
+      "midi": "57"
+    },
+    {
+      "note": "Bb3",
+      "pitch": "233.08",
+      "midi": "58"
+    },
+    {
+      "note": "B3",
+      "pitch": "246.94",
+      "midi": "59"
+    },
+    {
+      "note": "C4",
+      "pitch": "261.63",
+      "midi": "60"
+    },
+    {
+      "note": "Db4",
+      "pitch": "277.18",
+      "midi": "61"
+    },
+    {
+      "note": "D4",
+      "pitch": "293.66",
+      "midi": "62"
+    },
+    {
+      "note": "Eb4",
+      "pitch": "311.13",
+      "midi": "63"
+    },
+    {
+      "note": "E4",
+      "pitch": "329.63",
+      "midi": "64"
+    },
+    {
+      "note": "F4",
+      "pitch": "349.23",
+      "midi": "65"
+    },
+    {
+      "note": "Gb4",
+      "pitch": "369.99",
+      "midi": "66"
+    },
+    {
+      "note": "G4",
+      "pitch": "392.00",
+      "midi": "67"
+    },
+    {
+      "note": "Ab4",
+      "pitch": "415.30",
+      "midi": "68"
+    },
+    {
+      "note": "A4",
+      "pitch": "440.00",
+      "midi": "69"
+    },
+    {
+      "note": "Bb4",
+      "pitch": "466.16",
+      "midi": "70"
+    },
+    {
+      "note": "B4",
+      "pitch": "493.88",
+      "midi": "71"
+    },
+    {
+      "note": "C5",
+      "pitch": "523.25",
+      "midi": "72"
+    },
+    {
+      "note": "Db5",
+      "pitch": "554.37",
+      "midi": "73"
+    },
+    {
+      "note": "D5",
+      "pitch": "587.33",
+      "midi": "74"
+    },
+    {
+      "note": "Eb5",
+      "pitch": "622.25",
+      "midi": "75"
+    },
+    {
+      "note": "E5",
+      "pitch": "659.25",
+      "midi": "76"
+    },
+    {
+      "note": "F5",
+      "pitch": "698.46",
+      "midi": "77"
+    },
+    {
+      "note": "Gb5",
+      "pitch": "739.99",
+      "midi": "78"
+    },
+    {
+      "note": "G5",
+      "pitch": "783.99",
+      "midi": "79"
+    },
+    {
+      "note": "Ab5",
+      "pitch": "830.61",
+      "midi": "80"
+    },
+    {
+      "note": "A5",
+      "pitch": "880.00",
+      "midi": "81"
+    },
+    {
+      "note": "Bb5",
+      "pitch": "932.33",
+      "midi": "82"
+    },
+    {
+      "note": "B5",
+      "pitch": "987.77",
+      "midi": "83"
+    },
+    {
+      "note": "C6",
+      "pitch": "1046.50",
+      "midi": "84"
+    },
+    {
+      "note": "Db6",
+      "pitch": "1108.73",
+      "midi": "85"
+    },
+    {
+      "note": "D6",
+      "pitch": "1174.66",
+      "midi": "86"
+    },
+    {
+      "note": "Eb6",
+      "pitch": "1244.51",
+      "midi": "87"
+    },
+    {
+      "note": "E6",
+      "pitch": "1318.51",
+      "midi": "88"
+    },
+    {
+      "note": "F6",
+      "pitch": "1396.91",
+      "midi": "89"
+    },
+    {
+      "note": "Gb6",
+      "pitch": "1479.98",
+      "midi": "90"
+    },
+    {
+      "note": "G6",
+      "pitch": "1567.98",
+      "midi": "91"
+    },
+    {
+      "note": "Ab6",
+      "pitch": "1661.22",
+      "midi": "92"
+    },
+    {
+      "note": "A6",
+      "pitch": "1760.00",
+      "midi": "93"
+    },
+    {
+      "note": "Bb6",
+      "pitch": "1864.66",
+      "midi": "94"
+    },
+    {
+      "note": "B6",
+      "pitch": "1975.53",
+      "midi": "95"
+    },
+    {
+      "note": "C7",
+      "pitch": "2093.00",
+      "midi": "96"
+    },
+    {
+      "note": "Db7",
+      "pitch": "2217.46",
+      "midi": "97"
+    },
+    {
+      "note": "D7",
+      "pitch": "2349.32",
+      "midi": "98"
+    },
+    {
+      "note": "Eb7",
+      "pitch": "2489.02",
+      "midi": "99"
+    },
+    {
+      "note": "E7",
+      "pitch": "2637.02",
+      "midi": "100"
+    },
+    {
+      "note": "F7",
+      "pitch": "2793.83",
+      "midi": "101"
+    },
+    {
+      "note": "Gb7",
+      "pitch": "2959.96",
+      "midi": "102"
+    },
+    {
+      "note": "G7",
+      "pitch": "3135.96",
+      "midi": "103"
+    },
+    {
+      "note": "Ab7",
+      "pitch": "3322.44",
+      "midi": "104"
+    },
+    {
+      "note": "A7",
+      "pitch": "3520.00",
+      "midi": "105"
+    },
+    {
+      "note": "Bb7",
+      "pitch": "3729.31",
+      "midi": "106"
+    },
+    {
+      "note": "B7",
+      "pitch": "3951.07",
+      "midi": "107"
+    },
+    {
+      "note": "C8",
+      "pitch": "4186.01",
+      "midi": "108"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "description": "several octaves of notes with pitches and midi number",
+    "title": "notes",
+    "notes": [
+      "created with ChatGPT with the command “create a csv file representing notes. each note should be represented by a name (use flat name, not sharp name), a frequency in hz, and a midi number. go from c below middle c to c above middle c. make it span four octaves.",
+      "now spans all 88 piano keys"
+    ]
+  },
+  "notes": [
+    {
+      "note": "A0",
+      "frequency": 27.5,
+      "midi": "21"
+    },
+    {
+      "note": "Bb0",
+      "frequency": 29.14,
+      "midi": "22"
+    },
+    {
+      "note": "B0",
+      "frequency": 30.87,
+      "midi": "23"
+    },
+    {
+      "note": "C1",
+      "frequency": 32.7,
+      "midi": "24"
+    },
+    {
+      "note": "Db1",
+      "frequency": 34.65,
+      "midi": "25"
+    },
+    {
+      "note": "D1",
+      "frequency": 36.71,
+      "midi": "26"
+    },
+    {
+      "note": "Eb1",
+      "frequency": 38.89,
+      "midi": "27"
+    },
+    {
+      "note": "E1",
+      "frequency": 41.2,
+      "midi": "28"
+    },
+    {
+      "note": "F1",
+      "frequency": 43.65,
+      "midi": "29"
+    },
+    {
+      "note": "Gb1",
+      "frequency": 46.25,
+      "midi": "30"
+    },
+    {
+      "note": "G1",
+      "frequency": 49,
+      "midi": "31"
+    },
+    {
+      "note": "Ab1",
+      "frequency": 51.91,
+      "midi": "32"
+    },
+    {
+      "note": "A1",
+      "frequency": 55,
+      "midi": "33"
+    },
+    {
+      "note": "Bb1",
+      "frequency": 58.27,
+      "midi": "34"
+    },
+    {
+      "note": "B1",
+      "frequency": 61.74,
+      "midi": "35"
+    },
+    {
+      "note": "C2",
+      "frequency": 65.41,
+      "midi": "36"
+    },
+    {
+      "note": "Db2",
+      "frequency": 69.3,
+      "midi": "37"
+    },
+    {
+      "note": "D2",
+      "frequency": 73.42,
+      "midi": "38"
+    },
+    {
+      "note": "Eb2",
+      "frequency": 77.78,
+      "midi": "39"
+    },
+    {
+      "note": "E2",
+      "frequency": 82.41,
+      "midi": "40"
+    },
+    {
+      "note": "F2",
+      "frequency": 87.31,
+      "midi": "41"
+    },
+    {
+      "note": "Gb2",
+      "frequency": 92.5,
+      "midi": "42"
+    },
+    {
+      "note": "G2",
+      "frequency": 98,
+      "midi": "43"
+    },
+    {
+      "note": "Ab2",
+      "frequency": 103.83,
+      "midi": "44"
+    },
+    {
+      "note": "A2",
+      "frequency": 110,
+      "midi": "45"
+    },
+    {
+      "note": "Bb2",
+      "frequency": 116.54,
+      "midi": "46"
+    },
+    {
+      "note": "B2",
+      "frequency": 123.47,
+      "midi": "47"
+    },
+    {
+      "note": "C3",
+      "frequency": 130.81,
+      "midi": "48"
+    },
+    {
+      "note": "Db3",
+      "frequency": 138.59,
+      "midi": "49"
+    },
+    {
+      "note": "D3",
+      "frequency": 146.83,
+      "midi": "50"
+    },
+    {
+      "note": "Eb3",
+      "frequency": 155.56,
+      "midi": "51"
+    },
+    {
+      "note": "E3",
+      "frequency": 164.81,
+      "midi": "52"
+    },
+    {
+      "note": "F3",
+      "frequency": 174.61,
+      "midi": "53"
+    },
+    {
+      "note": "Gb3",
+      "frequency": 185,
+      "midi": "54"
+    },
+    {
+      "note": "G3",
+      "frequency": 196,
+      "midi": "55"
+    },
+    {
+      "note": "Ab3",
+      "frequency": 207.65,
+      "midi": "56"
+    },
+    {
+      "note": "A3",
+      "frequency": 220,
+      "midi": "57"
+    },
+    {
+      "note": "Bb3",
+      "frequency": 233.08,
+      "midi": "58"
+    },
+    {
+      "note": "B3",
+      "frequency": 246.94,
+      "midi": "59"
+    },
+    {
+      "note": "C4",
+      "frequency": 261.63,
+      "midi": "60"
+    },
+    {
+      "note": "Db4",
+      "frequency": 277.18,
+      "midi": "61"
+    },
+    {
+      "note": "D4",
+      "frequency": 293.66,
+      "midi": "62"
+    },
+    {
+      "note": "Eb4",
+      "frequency": 311.13,
+      "midi": "63"
+    },
+    {
+      "note": "E4",
+      "frequency": 329.63,
+      "midi": "64"
+    },
+    {
+      "note": "F4",
+      "frequency": 349.23,
+      "midi": "65"
+    },
+    {
+      "note": "Gb4",
+      "frequency": 369.99,
+      "midi": "66"
+    },
+    {
+      "note": "G4",
+      "frequency": 392,
+      "midi": "67"
+    },
+    {
+      "note": "Ab4",
+      "frequency": 415.3,
+      "midi": "68"
+    },
+    {
+      "note": "A4",
+      "frequency": 440,
+      "midi": "69"
+    },
+    {
+      "note": "Bb4",
+      "frequency": 466.16,
+      "midi": "70"
+    },
+    {
+      "note": "B4",
+      "frequency": 493.88,
+      "midi": "71"
+    },
+    {
+      "note": "C5",
+      "frequency": 523.25,
+      "midi": "72"
+    },
+    {
+      "note": "Db5",
+      "frequency": 554.37,
+      "midi": "73"
+    },
+    {
+      "note": "D5",
+      "frequency": 587.33,
+      "midi": "74"
+    },
+    {
+      "note": "Eb5",
+      "frequency": 622.25,
+      "midi": "75"
+    },
+    {
+      "note": "E5",
+      "frequency": 659.25,
+      "midi": "76"
+    },
+    {
+      "note": "F5",
+      "frequency": 698.46,
+      "midi": "77"
+    },
+    {
+      "note": "Gb5",
+      "frequency": 739.99,
+      "midi": "78"
+    },
+    {
+      "note": "G5",
+      "frequency": 783.99,
+      "midi": "79"
+    },
+    {
+      "note": "Ab5",
+      "frequency": 830.61,
+      "midi": "80"
+    },
+    {
+      "note": "A5",
+      "frequency": 880,
+      "midi": "81"
+    },
+    {
+      "note": "Bb5",
+      "frequency": 932.33,
+      "midi": "82"
+    },
+    {
+      "note": "B5",
+      "frequency": 987.77,
+      "midi": "83"
+    },
+    {
+      "note": "C6",
+      "frequency": 1046.5,
+      "midi": "84"
+    },
+    {
+      "note": "Db6",
+      "frequency": 1108.73,
+      "midi": "85"
+    },
+    {
+      "note": "D6",
+      "frequency": 1174.66,
+      "midi": "86"
+    },
+    {
+      "note": "Eb6",
+      "frequency": 1244.51,
+      "midi": "87"
+    },
+    {
+      "note": "E6",
+      "frequency": 1318.51,
+      "midi": "88"
+    },
+    {
+      "note": "F6",
+      "frequency": 1396.91,
+      "midi": "89"
+    },
+    {
+      "note": "Gb6",
+      "frequency": 1479.98,
+      "midi": "90"
+    },
+    {
+      "note": "G6",
+      "frequency": 1567.98,
+      "midi": "91"
+    },
+    {
+      "note": "Ab6",
+      "frequency": 1661.22,
+      "midi": "92"
+    },
+    {
+      "note": "A6",
+      "frequency": 1760,
+      "midi": "93"
+    },
+    {
+      "note": "Bb6",
+      "frequency": 1864.66,
+      "midi": "94"
+    },
+    {
+      "note": "B6",
+      "frequency": 1975.53,
+      "midi": "95"
+    },
+    {
+      "note": "C7",
+      "frequency": 2093,
+      "midi": "96"
+    },
+    {
+      "note": "Db7",
+      "frequency": 2217.46,
+      "midi": "97"
+    },
+    {
+      "note": "D7",
+      "frequency": 2349.32,
+      "midi": "98"
+    },
+    {
+      "note": "Eb7",
+      "frequency": 2489.02,
+      "midi": "99"
+    },
+    {
+      "note": "E7",
+      "frequency": 2637.02,
+      "midi": "100"
+    },
+    {
+      "note": "F7",
+      "frequency": 2793.83,
+      "midi": "101"
+    },
+    {
+      "note": "Gb7",
+      "frequency": 2959.96,
+      "midi": "102"
+    },
+    {
+      "note": "G7",
+      "frequency": 3135.96,
+      "midi": "103"
+    },
+    {
+      "note": "Ab7",
+      "frequency": 3322.44,
+      "midi": "104"
+    },
+    {
+      "note": "A7",
+      "frequency": 3520,
+      "midi": "105"
+    },
+    {
+      "note": "Bb7",
+      "frequency": 3729.31,
+      "midi": "106"
+    },
+    {
+      "note": "B7",
+      "frequency": 3951.07,
+      "midi": "107"
+    },
+    {
+      "note": "C8",
+      "frequency": 4186.01,
+      "midi": "108"
+    }
+  ]
+}
